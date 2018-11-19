@@ -54,3 +54,6 @@ Nowadays, I do not see any actions not possible with 'deathrattle' since digital
 
 ## Alternatives
 - [safebeyond](https://www.safebeyond.com/) - a 3rd party service
+- [Everest](https://everestfuneral.com/) - a 3rd party service
+- [Cake](https://www.joincake.com/) - a 3rd party service
+- [The Guardian News](https://www.theguardian.com/technology/2016/mar/08/death-apps-everest-cake-safebeyond-everplans-afternote-funerals)
