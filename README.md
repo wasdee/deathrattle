@@ -46,7 +46,7 @@ Nowadays, I do not see any actions not possible with 'deathrattle' since digital
 * You have to create a test yourself. To ensure, the completeness of its executions
 * For AWS, you have to get a special credit card that still works after your death
 * For Ethereum, you have to have a sufficient enough of gas to run your application througtout.
-* Your have to create a way to update the actions.
+* Your have to create a way to update/change/cancel the future-undesired actions.
 
 > Those who afraid of death will carry it on their shoulders.
 > 
