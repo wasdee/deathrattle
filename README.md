@@ -9,7 +9,7 @@ digital actions that execute after you are dead.
 > --Hearthstone Wiki
 
 ## What is 'Deathrattle'?
-An extreme private way of maintaining your intension after you are dead. It is running on AWS serverless or any decentralized networks. You have to know how to code in order to use it. (if you let someone do it for you, it is not private anymore, isn't it?)
+An extreme private way of maintaining your intensions after you are dead. It is running on AWS serverless or any decentralized networks. You have to know how to code in order to use it. (if you let someone do it for you, it is not private anymore, isn't it?)
 
 > Death is not the greatest loss in life. The greatest loss is what dies inside us while we life.
 > 
@@ -57,3 +57,7 @@ Nowadays, I do not see any actions not possible with 'deathrattle' since digital
 - [Everest](https://everestfuneral.com/) - a 3rd party service
 - [Cake](https://www.joincake.com/) - a 3rd party service
 - [The Guardian News](https://www.theguardian.com/technology/2016/mar/08/death-apps-everest-cake-safebeyond-everplans-afternote-funerals)
+
+> When fear dominates, our sense of possibility collapses.
+> 
+> --Sharon Salzberg
