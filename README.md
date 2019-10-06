@@ -2,7 +2,7 @@
 digital actions that execute after you are dead.
 
 
-[![deathrattle cover](https://raw.githubusercontent.com/circleoncircles/deathrattle/master/docs/_static/Deathrattle_Github.jpg)](https://github.com/CircleOnCircles/deathrattle)
+[![deathrattle cover](docs/_static/Deathrattle_Github.jpg)](https://github.com/CircleOnCircles/deathrattle)
 
 > Deathrattle is an ability where the stated effect occurs when the minion or weapon is destroyed.
 >
