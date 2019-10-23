@@ -9,7 +9,7 @@ digital actions that execute after you are dead.
 > --Hearthstone Wiki
 
 ## What is 'Deathrattle'?
-An extreme private way of maintaining your intensions after you are dead. It is running on AWS serverless or any decentralized networks. You have to know how to code in order to use it. (if you let someone do it for you, it is not private anymore, isn't it?)
+A private way of maintaining your determinations after you are dead. It is running on AWS serverless or any decentralized networks. You have to know how to code in order to use it. (if you let someone do it for you, it is not private anymore, isn't it?)
 
 > Death is not the greatest loss in life. The greatest loss is what dies inside us while we life.
 > 
@@ -19,7 +19,8 @@ An extreme private way of maintaining your intensions after you are dead. It is 
 Most of the process is automated. You can forget once you run this service.
 1. detect the absent of your digital footprints/behaviors
     1. check email
-    2. login/post social media
+    2. login/post an online account
+    3. using some internet connected device
 2. derive from your wearables
     1. check your heartrate on a critical session
 3. derive from your smarthome/IoT devices
