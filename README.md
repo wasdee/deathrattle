@@ -18,7 +18,7 @@ A private way of maintaining your determinations after you are dead. It is runni
 ### How does it determine that you are dead?
 Most of the process is automated. You can forget once you run this service.
 1. detect the absent of your digital footprints/behaviors
-    1. check email
+    1. check if new email is read 
     2. login/post an online account
     3. using some internet connected device
 2. derive from your wearables
@@ -38,6 +38,7 @@ Nowadays, I do not see any actions not possible with 'deathrattle' since digital
 5. control your IoT devices
 6. sell your stocks in portfolio
 7. say how much you love your significant one.
+8. organise 10 delivery mans to someone front door.
 
 > Death is our friend precisely because it brings us into the absolute and passionate presence with all that is here, that is natural, that is love.
 > 
